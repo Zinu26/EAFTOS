@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5761e6f03346c19428bacd0166ec7182, type: 3}
+  m_Name: Inventory
+  m_EditorClassIdentifier: 
+  currentItem: {fileID: 11400000, guid: e87db34f0432bad4ca5ef0e1c12c371c, type: 2}
+  items:
+  - {fileID: 11400000, guid: f95a464504182e54c95ee0f3cc0f375d, type: 2}
+  - {fileID: 11400000, guid: ae569660ec5c63c4a8ef49e93867e741, type: 2}
+  - {fileID: 11400000, guid: 6bb9b37fd4e4ac04dae592d2374fb4b9, type: 2}
+  - {fileID: 11400000, guid: 32c4260ea1851bc4da871b7d6c783e0b, type: 2}
+  - {fileID: 11400000, guid: fabfa7d2f6aa3c442b35540eba9b6e1c, type: 2}
+  numberOfGoldKeys: 0
+  numberOfSilverKeys: 0
+  numberOfBlueKeys: 0
+  numberOfBrownKeys: 0
+  numberOfOrangeKeys: 0
+  numberOfNecklace: 0
+  numberOfScroll: 0
+  numberOfDiamond: 0
+  numberOfGem: 0
+  numberOfMask: 0
+  coins: 99999
+  maxMagic: 250
+  currentMagic: 243
+  maxStamina: 250
+  currentStamina: 241
+  maxSuper: 250
+  currentSuper: 145
+  maxRun: 500
+  currentRun: 500

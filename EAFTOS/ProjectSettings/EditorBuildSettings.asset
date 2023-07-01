@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 55c7a655cb9f3e84bbee1b6facb51f35
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: c674b197aa5059a44a786fe4916973b1
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: f2e30e0bfa4e8714aac6e0d557fc82e7
+  - enabled: 1
+    path: Assets/Scenes/Opening1.unity
+    guid: 4858f731ac335564c9e3d4640dff5d69
+  - enabled: 1
+    path: Assets/Scenes/OpeningCutScene.unity
+    guid: a625fc3f5313b3041857cad0e6d83065
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: c7b58cf1d5b2e884892b8c7efe3d18fc
+  - enabled: 1
+    path: Assets/Scenes/2nd.unity
+    guid: 86aab542c0f4d284bbfeefeb174ffadf
+  - enabled: 1
+    path: Assets/Scenes/2ndLib.unity
+    guid: fb94f7ec09478d542aabd6b958c0f917
+  - enabled: 1
+    path: Assets/Scenes/CAFA.unity
+    guid: be47cdd97ecb04643a0cf5bb1f28c935
+  - enabled: 1
+    path: Assets/Scenes/CAFARoom1.unity
+    guid: 7e6fc367c7c324f4394cc2770f49bfe4
+  - enabled: 1
+    path: Assets/Scenes/CAFARoom2.unity
+    guid: 6e273ca8786beaf4e84b1398ef9a790a
+  - enabled: 1
+    path: Assets/Scenes/CAFARoom3.unity
+    guid: 2b83f2be1d4053a40b35ad27e869aa1a
+  - enabled: 1
+    path: Assets/Scenes/CAFARoom4.unity
+    guid: f3c797716593eac4cab97fce6016540d
+  - enabled: 1
+    path: Assets/Scenes/CAFARoom5.unity
+    guid: b38bb834a8a708c409db0f6a4da0d1ee
+  - enabled: 1
+    path: Assets/Scenes/CIE.unity
+    guid: 3606785a9c17bd9499157d1bc2cf2914
+  - enabled: 1
+    path: Assets/Scenes/CIERoom1.unity
+    guid: 16e1cc69e5fb30f4a83c313b35faaa22
+  - enabled: 1
+    path: Assets/Scenes/CIERoom2.unity
+    guid: 0e28afa935d6a3d45bc674347dc4d476
+  - enabled: 1
+    path: Assets/Scenes/CIERoom3.unity
+    guid: 2eb63d6445c266442a1bb5bfc4f7ce8f
+  - enabled: 1
+    path: Assets/Scenes/CIERoom4.unity
+    guid: 4254220110fcd8a408f83b6819133b1d
+  - enabled: 1
+    path: Assets/Scenes/CIT.unity
+    guid: 8f9813a65fa43704ea7c430311600c11
+  - enabled: 1
+    path: Assets/Scenes/CITRoom1.unity
+    guid: 1d84276ef6f670f4db92cc547f1c9b8e
+  - enabled: 1
+    path: Assets/Scenes/CITRoom2.unity
+    guid: 0bb1080eb7eb67c4f81811b5b9a92de3
+  - enabled: 1
+    path: Assets/Scenes/CITRoom3.unity
+    guid: c8a34583fcb2cfc4584da2cf871d4d08
+  - enabled: 1
+    path: Assets/Scenes/CITRoom4.unity
+    guid: cd9a346256c55ba4dbdabbd14e45a4b9
+  - enabled: 1
+    path: Assets/Scenes/CITRoom5.unity
+    guid: 691a12e874986b24fb4c9140197d9851
+  - enabled: 1
+    path: Assets/Scenes/CLA.unity
+    guid: 257149e7e77a413439a87af094964039
+  - enabled: 1
+    path: Assets/Scenes/CLARoom1.unity
+    guid: 955046c396670db4a8fe1c4d46d1f741
+  - enabled: 1
+    path: Assets/Scenes/CLARoom2.unity
+    guid: 4be1869ef9839a449a9b26ab1ca21df4
+  - enabled: 1
+    path: Assets/Scenes/CLARoom3.unity
+    guid: 559cd8b434fb4984fb6a10a0fde8e2b6
+  - enabled: 1
+    path: Assets/Scenes/CLARoom4.unity
+    guid: 2a79088ca2cd0984ea62e0dda2c76965
+  - enabled: 1
+    path: Assets/Scenes/CLARoom5.unity
+    guid: 0643fb617818c4b479c017e44326af9f
+  - enabled: 1
+    path: Assets/Scenes/COE.unity
+    guid: 20e3e45bfcaeb9243ad1e1509e881482
+  - enabled: 1
+    path: Assets/Scenes/COERoom1.unity
+    guid: 2173d66ff0fa4144d8a51cd34523ec67
+  - enabled: 1
+    path: Assets/Scenes/COERoom2.unity
+    guid: 34cd68ac64a913f41ac211aaead7bfac
+  - enabled: 1
+    path: Assets/Scenes/COERoom3.unity
+    guid: 1103fb67aa904e849a9194598b7d1cfe
+  - enabled: 1
+    path: Assets/Scenes/COERoom4.unity
+    guid: a3ffff1bf9f6a2945843a03a36f97621
+  - enabled: 1
+    path: Assets/Scenes/COSRoom1.unity
+    guid: 6c7c7c3a3fb0a4a40b98310980a16dde
+  - enabled: 1
+    path: Assets/Scenes/COSRoom2.unity
+    guid: fed9699359bff494c93675d0fac29988
+  - enabled: 1
+    path: Assets/Scenes/COSRoom3.unity
+    guid: f55879abf4eba044a9f0f777ecf8ca52
+  - enabled: 1
+    path: Assets/Scenes/COSRoom4.unity
+    guid: 61e613d2b7fa21045b5115e4e8654394
+  - enabled: 1
+    path: Assets/Scenes/COSRoom5.unity
+    guid: 652593c9e3148a34ba1ab9a87fcd5b64
+  - enabled: 1
+    path: Assets/Scenes/COSRoom6.unity
+    guid: b648f883449785d45b346ec1687d90c7
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 1c54d8c347246aa449fd1b4afa9532ba
+  - enabled: 1
+    path: Assets/Scenes/FIELD.unity
+    guid: fb88788aacb611e42a726ae6dafd7cf2
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: e49df8aa04b30d64595e1096362900a6
+  - enabled: 1
+    path: Assets/Scenes/Lib.unity
+    guid: eaaf0314b0f3c574a83f6db04eacabdc
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 3c6a5155bc4893e4d9503775d8da52d9
+  - enabled: 1
+    path: Assets/Scenes/Lobby1.unity
+    guid: 85a5650b15c3bbb4bb71e4e3e7256bad
+  - enabled: 1
+    path: Assets/Scenes/Lobby2.unity
+    guid: fc1a44a1132ca104aa6d252980d3da59
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/ToCAFA.unity
+    guid: 3863d8ae8e00fde4fbc588f47dfff1a7
+  - enabled: 1
+    path: Assets/Scenes/ToCIE.unity
+    guid: 8508905e9c74ae34e90ae1ed8036267a
+  - enabled: 1
+    path: Assets/Scenes/ToCIT.unity
+    guid: 161c61917eb174c4893cbdf6b5ca563f
+  - enabled: 1
+    path: Assets/Scenes/ToCLA.unity
+    guid: a12eeb8b00cd5f8429b7438f224e794a
+  - enabled: 1
+    path: Assets/Scenes/ToCOE.unity
+    guid: 67414d4aed3311e4aac8269363e387b0
+  - enabled: 1
+    path: Assets/Scenes/ToCOE1.unity
+    guid: c4ebc76f0f4e9ee43b9e5008a12cc2ad
+  - enabled: 1
+    path: Assets/Scenes/ToFIELD.unity
+    guid: 775f4bddfd5b8d84ea2bb5c808fa50ef
+  - enabled: 1
+    path: Assets/Scenes/PATH.unity
+    guid: ace2276e7eb88f640b816d96cae22c7a
+  m_configObjects: {}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3674b76ebc115ca4f8fe6524a756b8c1, type: 3}
+  m_Name: HEART CONTAINER
+  m_EditorClassIdentifier: 
+  loots:
+  - thisLoot: {fileID: 7069026243211848018, guid: 8fbe1d6f84c733d428b3f17a5fe0d9c0,
+      type: 3}
+    lootChance: 100

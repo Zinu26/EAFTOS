@@ -1,0 +1,47 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Room3(COS)_mesh_0005.obj'
+
+# Vertices (Count = 16)
+v -11 -2 0
+v -12 -2 0
+v -12 -1 0
+v -11 -1 0
+v -14 -6 0
+v -15 -6 0
+v -15 -5 0
+v -14 -5 0
+v -14 -7 0
+v -15 -7 0
+v -15 -6 0
+v -14 -6 0
+v -14 -8 0
+v -15 -8 0
+v -15 -7 0
+v -14 -7 0
+
+# Texture cooridinates (Count = 12)
+vt 0.275 0.52
+vt 0.3 0.52
+vt 0.3 0.56
+vt 0.275 0.56
+vt 0.425 0.8
+vt 0.45 0.8
+vt 0.45 0.84
+vt 0.425 0.84
+vt 0.425 0.76
+vt 0.45 0.76
+vt 0.425 0.72
+vt 0.45 0.72
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Room3(COS)_mesh_0005
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/5/1 6/6/1 7/7/1 8/8/1
+f 9/9/1 10/10/1 11/6/1 12/5/1
+f 13/11/1 14/12/1 15/10/1 16/9/1
+

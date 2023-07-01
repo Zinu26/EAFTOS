@@ -1,0 +1,44 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'COEROOM1_mesh_0003.obj'
+
+# Vertices (Count = 16)
+v -26 -6 0
+v -27 -6 0
+v -27 -5 0
+v -26 -5 0
+v -25 -6 0
+v -26 -6 0
+v -26 -5 0
+v -25 -5 0
+v -26 -7 0
+v -27 -7 0
+v -27 -6 0
+v -26 -6 0
+v -25 -7 0
+v -26 -7 0
+v -26 -6 0
+v -25 -6 0
+
+# Texture cooridinates (Count = 9)
+vt 0.8181818 0.95
+vt 0.8484849 0.95
+vt 0.8484849 1
+vt 0.8181818 1
+vt 0.7878788 0.95
+vt 0.7878788 1
+vt 0.8181818 0.9
+vt 0.8484849 0.9
+vt 0.7878788 0.9
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g COEROOM1_mesh_0003
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/5/1 6/1/1 7/4/1 8/6/1
+f 9/7/1 10/8/1 11/2/1 12/1/1
+f 13/9/1 14/7/1 15/1/1 16/5/1
+

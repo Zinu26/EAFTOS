@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b90a4e7bf9dd1194bb351c694ca19d3f, type: 3}
+  m_Name: CIT
+  m_EditorClassIdentifier: 
+  playerInventory: {fileID: 11400000, guid: 7d484fe32302fd040af7d4de404f0739, type: 2}
+  Inventory: {fileID: 11400000, guid: 41fe750631da82442a10e89e221796a2, type: 2}
+  itemName: Diamond
+  itemSprite: {fileID: 21300226, guid: 9eb463a47673fdd42a413b7fe1aaeee1, type: 3}
+  itemDialog: Diamond Obtained
+  itemDescription: A Key to somewhere
+  numberHeld: -1
+  usable: 0
+  unique: 1
+  isGoldKey: 0
+  isBlueKey: 0
+  isSilverKey: 0
+  isBrownKey: 0
+  isOrangeKey: 0
+  isNecklace: 0
+  isScroll: 0
+  isGem: 0
+  isDiamond: 1
+  isMask: 0
+  thisEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000}
+        m_MethodName: DecreaseAmount
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
